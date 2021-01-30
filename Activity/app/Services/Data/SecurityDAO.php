@@ -1,4 +1,6 @@
 <?php
+//Onur Akman
+//This is my own work
 namespace App\Services\Data;
 use Illuminate\Support\Facades\DB;
 class SecurityDAO {

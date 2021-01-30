@@ -1,4 +1,6 @@
 <?php
+//Onur Akman
+//This is my own work
 namespace App\Models;
 use Illuminate\Database\Eloquent\Model;
 class UserModel{
